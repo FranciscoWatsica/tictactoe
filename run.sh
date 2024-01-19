@@ -1,5 +1,5 @@
-#!/bin/bash
-# First check that Leo is installed.
+!!/bin/bash
+#!First check that Leo is installed.
 if ! command -v leo &> /dev/null
 then
     echo "leo is not installed."
@@ -155,3 +155,4 @@ echo "
 ########                                                               ########
 ###############################################################################
 "
+ 
